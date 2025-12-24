@@ -1,0 +1,80 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera: Évasion Sereine au Cœur des Sassi",
+  "budget_total": "530€",
+  "duree": "2 jours",
+  "temps_vol": "5h00 (vol + transfert depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et première immersion dans les Sassi",
+      "legende": "Après votre arrivée à Matera, installez-vous confortablement dans votre hébergement troglodyte. La première journée est dédiée à une douce découverte des Sassi de Barisano, le quartier le plus accessible et le point de départ idéal pour s'imprégner de l'atmosphère unique de cette ville millénaire. Laissez-vous charmer par ses ruelles sinueuses et ses habitations creusées dans la roche.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à Matera et transfert vers votre hôtel. Profitez du trajet pour admirer les paysages de la Basilicate.",
+        "<strong>🛏️</strong>: Installation dans un hôtel troglodyte. Une expérience authentique pour débuter votre séjour en douceur.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans les Sassi de Barisano. Perdez-vous dans ce dédale de ruelles et découvrez les premières vues imprenables sur la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Matera est une ville qui se découvre à pied. Prévoyez des chaussures confortables et antidérapantes, car les pavés peuvent être glissants et les pentes raides."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌄",
+      "titre": "Exploration des Sassi et panorama époustouflant",
+      "legende": "La deuxième journée vous plonge au cœur des Sassi de Caveoso, le quartier le plus ancien et le plus spectaculaire. Explorez les églises rupestres et leurs fresques séculaires, témoins d'un passé riche. En fin de journée, un point de vue panoramique sur la Murgia Materana vous offrira un spectacle inoubliable, idéal pour une contemplation sereine avant le départ.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>⛪</strong>: Visite des Sassi de Caveoso et des églises rupestres. Admirez l'architecture unique et les fresques byzantines de ces lieux de culte ancestraux.",
+        "<strong>🏞️</strong>: Randonnée douce vers le Belvedere di Murgia Timone. Traversez le canyon de la Gravina pour atteindre ce point de vue offrant un panorama grandiose sur Matera.",
+        "<strong>☕</strong>: Détente dans un café local. Profitez d'un moment de quiétude pour savourer une boisson et observer la vie materane."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Le Belvedere di Murgia Timone est particulièrement magique au coucher du soleil, lorsque les Sassi s'illuminent. Prévoyez d'y être en fin d'après-midi."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez au \"Pane di Matera\", un pain traditionnel à la croûte croustillante et à la mie moelleuse, reconnu pour sa longue conservation."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "249 €/pers (A/R Paris-Bari)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "20 €/pers (transfert Bari-Matera A/R + local)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "110 €/pers (2 déjeuners, 2 dîners)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "120 €/pers (2 nuits en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "30 €/pers (entrées églises rupestres, musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures à Matera sont agréables au printemps et en automne (15-25°C). L'été peut être très chaud.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "L'italien est la langue officielle. Quelques notions peuvent être utiles, mais l'anglais est souvent compris dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Matera est très vallonnée. Prévoyez des chaussures de marche confortables et une bonne condition physique pour explorer les Sassi.", "symbole": "👟" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols Paris-Bari", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BRI/2024-10-15/2024-10-17", "symbole": "🛬" },
+    { "legende": "Office du tourisme de la Basilicate", "titre": "Tourisme Matera", "url": "https://www.basilicataturistica.it/en/matera/", "symbole": "📘" },
+    { "legende": "Bus Bari Aéroport - Matera", "titre": "Bus Miccolis", "url": "https://www.busmiccolis.it/", "symbole": "🚌" },
+    { "legende": "Météo à Matera", "titre": "Météo Matera", "url": "https://www.ilmeteo.it/meteo/Matera", "symbole": "🌤️" }
+  ]
+}
